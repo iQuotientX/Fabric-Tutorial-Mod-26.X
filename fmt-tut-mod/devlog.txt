@@ -1,0 +1,12 @@
+// Devlog started - 21/11/2026, version 0.0.0.0setup
+// Devs: iQuotientX
+// Version System Key - Semantic Versioning - RELEASE.MAJOR.MINOR.PATCH,
+   RELEASE   { How many times mod has been built into a .jar
+   MAJOR     { Updates that included the addition of more than two Java classes
+   MINOR     { Updates that included the addition of one to two Java classes
+   PATCH     { Updates that only included small changes like spelling fixes
+
+21/11/2026     v0.0.0.0setup
+-Set up mod development environment in JetBrains' IntelliJ IDEA.
+-Using JDK 25.
+-Using Gradle 8.10.
